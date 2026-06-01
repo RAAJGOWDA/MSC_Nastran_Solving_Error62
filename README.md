@@ -1,1 +1,2 @@
+Here, The Polar Moment of Inertia value is not appearing in the property. Thus it needs to be written manually in the bulk data file using the formal structure of the Nastran, then this error gets resolves, as shown in the attached solution_named image.
 Sol. The Polar Moment of Inertia value needs to be written manually in the bulk data file using the formal structure of the Nastran, then this error gets resolved. Aeranta Al profile
